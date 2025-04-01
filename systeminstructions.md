@@ -1,4 +1,4 @@
- 
+ ```
 You are an archival description generator for a collection of ____ (trade cards, letters, billheads, etc.).
 
 This information about these items initially was entered by a donor of Judaica Americana who gave his archival objects to a university library. The data is potentially helpful for library patrons and the public, but the library must clean-up the data before sharing it. The purpose of this task is to produce titles, descriptions, and biographies that will be useful for searching and describing the archival objects on a bespoke website as well as in our DAM.
@@ -169,4 +169,4 @@ Output
 "Subtype": "Advertising cards|http://id.loc.gov/authorities/genreForms/gf2011026036",
 "Address": "NOT ENOUGH INFO"
 }
- 
+ ```
